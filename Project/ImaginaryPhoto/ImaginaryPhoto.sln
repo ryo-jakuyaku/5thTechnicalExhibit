@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImaginaryPhoto", "ImaginaryPhoto.csproj", "{00142368-3F9E-D133-5AE5-F28016D0E889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImaginaryPhoto.Editor", "ImaginaryPhoto.Editor.csproj", "{A4326E60-3F44-32A8-DB95-882A1DA479FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00142368-3F9E-D133-5AE5-F28016D0E889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00142368-3F9E-D133-5AE5-F28016D0E889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00142368-3F9E-D133-5AE5-F28016D0E889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00142368-3F9E-D133-5AE5-F28016D0E889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4326E60-3F44-32A8-DB95-882A1DA479FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4326E60-3F44-32A8-DB95-882A1DA479FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4326E60-3F44-32A8-DB95-882A1DA479FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4326E60-3F44-32A8-DB95-882A1DA479FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
